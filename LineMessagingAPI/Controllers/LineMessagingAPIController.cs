@@ -1,7 +1,4 @@
-﻿using LINGBOxGAS.Model;
-using ArangoDBNetStandard;
-using ArangoDBNetStandard.Transport.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Net.Http;
