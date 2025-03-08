@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace LINGBOxGAS.Model
+namespace LineMessagingManagerAPI.Model
 {
     /// <summary>
     /// LINE Messaging API 管理
@@ -41,7 +41,7 @@ namespace LINGBOxGAS.Model
             };
         }
 
-        public GetLineMessagingAPIBotBasicId()
+        public string GetLineMessagingAPIBotBasicId()
         {
             return _lineMessagingOptions.BotBasicId;
         }

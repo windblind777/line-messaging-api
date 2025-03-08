@@ -1,4 +1,4 @@
-using LINGBOxGAS.Model;
+using LineMessagingManagerAPI.Model;
 using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);

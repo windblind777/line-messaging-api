@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Channels;
 using Microsoft.Extensions.Logging;
+using LineMessagingManagerAPI.Model;
 
 namespace LineMessagingAPI.Controllers
 {
